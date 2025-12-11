@@ -8,16 +8,19 @@ I enjoy solving real-world problems using **Java, OOPs, DSA, HTML, CSS, JavaScri
 ---
 
 ## 🚀 What I Do
-- 🔧 Develop backend applications using **Java, Servlets, JDBC, and APIs**  
-- 🌐 Build responsive websites with **HTML, CSS, JS**  
-- 🧠 Practice **DSA daily (GFG 160 Challenge)**  
-- 🖼 Professional **Portrait & Street Photographer**  
-- 🎬 Video editing using **Adobe Premiere Pro & Canva**  
-- 🖥 Working on real projects like:
-  - EV Weather Mood Tracker  
-  - Currency Converter (Java + Ajax)  
-  - Movie Search App (OMDb API)  
-  - Full-stack portfolio projects
+
+- 🌱 Currently learning **MERN Stack deeply** (MongoDB, Express.js, React.js, Node.js)  
+  - Building full projects from scratch to understand real development flow  
+- 🔧 Work with **Java** for backend logic, mini projects, and college assignments  
+- 🧠 Practice **DSA daily** to strengthen problem-solving (GFG 160 Challenge)  
+- 🌐 Build frontend projects using **HTML, CSS, JavaScript**  
+  - Creating interactive UI/UX like Flixmode (Movie UI), search apps, and animated web pages  
+- 📸 Passionate **Portrait & Street Photographer** with experience in campus events, fests, and promotions  
+- 🎞 Edit videos using **Premiere Pro & Canva**, managing client content and event edits  
+- 🎯 Currently improving skills in:
+  - **React.js components, props, hooks, routing**  
+  - **MongoDB basics (CRUD, queries, models)**  
+  - **API integration & real-time web projects**
 
 ---
 
