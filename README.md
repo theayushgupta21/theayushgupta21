@@ -1,9 +1,21 @@
 # Hey 👋, I'm Ayush Gupta  
-### Java Backend Developer | Web Developer | DSA Learner | Portraitwala 📸
+Web Developer | MERN Learner | DSA Learner | Creative Creator 📸🎬✍️  
 
-I’m a passionate **Java Backend Developer** and **Web Developer** who loves building clean, scalable applications and exploring creative fields like **photography, editing, and design**.
+I'm a passionate **Web Developer** currently learning the **MERN Stack** and building projects from scratch to understand real development flow. I enjoy writing clean code, creating interactive UIs, and improving my logic through **DSA**.
 
-I enjoy solving real-world problems using **Java, OOPs, DSA, HTML, CSS, JavaScript, PHP, and MySQL**, and I’m currently expanding into **full-stack development** and **AI-powered projects**.
+Along with tech, I am also a **creative creator** who loves expressing stories through visuals and words.  
+I work in multiple creative fields including:
+
+- 📸 Portrait & Street Photography  
+- 🎥 Videography & Cinematic Shots  
+- ✂️ Video Editing (Premiere Pro, Canva, Photoshop)  
+- 📝 Content Writing & Storytelling  
+- 🎨 Designing posts, banners, and creative visuals  
+- 📷 Covering events, fests, and promotional shoots  
+
+Tech + Creativity define my identity —  
+I **build digital experiences** and **create visual stories**.
+
 
 ---
 
