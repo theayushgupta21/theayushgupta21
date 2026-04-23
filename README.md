@@ -100,9 +100,10 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=theayushgupta21&theme=aura&hide_border=true&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=theayushgupta21&theme=aura&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theayushgupta21&theme=aura&hide_border=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=theayushgupta21&theme=aura&hide_border=true&include_all_commits=true" height="170" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=theayushgupta21&theme=aura&hide_border=true" height="170" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theayushgupta21&theme=aura&hide_border=true&layout=compact" height="170" />
 
 </div>
 
@@ -110,7 +111,7 @@
 
 <div align="center">
 
-## 🏆 Achievements
+## 🏆 Achievements & Milestones
 
 </div>
 
@@ -120,27 +121,46 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+
+| 🚀 **Technical Wins** | 🎨 **Creative Wins** | 🌟 **Core Strengths** |
+| :--- | :--- | :--- |
+| **MERN Stack Proficiency** | **Visual Storyteller @portraitwala** | **Problem Solving (Java/DSA)** |
+| **Built 5+ Full-Stack Projects** | **500+ Professional Portraits** | **Clean & Scalable Code** |
+| **Consistent Open Source Contributor** | **Expert in Visual Composition** | **Adaptability & Fast Learning** |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solving_Daily-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/theayushgupta21)
+[![Projects](https://img.shields.io/badge/Projects-Building_the_Future-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/theayushgupta21?tab=repositories)
+[![Photography](https://img.shields.io/badge/Photography-Visual_Storytelling-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/portraitwalagallery)
+
+</div>
+
 ---
 
 <div align="center">
 
-## 📈 Contribution Graph
+## 📈 Contributions
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=theayushgupta21&bg_color=0d1117&color=c084fc&line=7c3aed&point=e9d5ff&area=true&hide_border=true"/>
 
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
+<br/>
 
 <picture>
-  <img src="https://raw.githubusercontent.com/theayushgupta21/theayushgupta21/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theayushgupta21/theayushgupta21/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theayushgupta21/theayushgupta21/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theayushgupta21/theayushgupta21/output/github-snake-dark.svg">
 </picture>
 
 </div>
+
 
 ---
 
