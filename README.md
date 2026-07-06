@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,50:DD2476,100:7C3AED&height=220&section=header&text=Ayush%20Gupta&fontSize=65&fontColor=bacc62&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A6%20Creative%20Coder%20%E2%9C%A6%20Builder&descAlignY=58&descSize=18&descColor=e9d5ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,50:DD2476,100:7C3AED&height=220&section=header&text=Ayush%20Gupta&fontSize=65&fontColor=bacc62&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A6%20Creative%20Coder%20%E2%9C%A6%20Builder&descAlignY=58&descSize=18&descColor=f6fa07"/>
 
 <br/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer+%F0%9F%92%BB;Java+%26+DSA+Learner+%F0%9F%93%9A;Building+Real-World+Projects+%F0%9F%9A%80;AI+%26+Creative+Tech+Explorer+%F0%9F%A4%96;Photography+%26+Visual+Storyteller+%F0%9F%93%B8" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2500&pause=700&color=f6fa07&center=true&vCenter=true&width=850&lines=⚡+Full-Stack+MERN+Engineer;🚀+Building+Scalable+Web+Apps;📘+Java+%26+DSA+Explorer;🤖+AI+%26+Modern+Tech+Creator;🎨+Creative+Developer+%26+Photographer"/>
 
 <br/><br/>
 
