@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:7c3aed,100:c026d3&height=220&section=header&text=Ayush%20Gupta&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A6%20Creative%20Coder%20%E2%9C%A6%20Builder&descAlignY=58&descSize=18&descColor=e9d5ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,50:DD2476,100:7C3AED&height=220&section=header&text=Ayush%20Gupta&fontSize=65&fontColor=bacc62&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A6%20Creative%20Coder%20%E2%9C%A6%20Builder&descAlignY=58&descSize=18&descColor=e9d5ff"/>
 
 <br/>
 
@@ -15,7 +15,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -128,7 +127,7 @@
 | 🚀 **Technical Wins** | 🎨 **Creative Wins** | 🌟 **Core Strengths** |
 | :--- | :--- | :--- |
 | **MERN Stack Proficiency** | **Visual Storyteller @portraitwala** | **Problem Solving (Java/DSA)** |
-| **Built 5+ Full-Stack Projects** | **500+ Professional Portraits** | **Clean & Scalable Code** |
+| **Built 1+ Full-Stack Projects** | **500+ Professional Portraits** | **Clean & Scalable Code** |
 | **Consistent Open Source Contributor** | **Expert in Visual Composition** | **Adaptability & Fast Learning** |
 
 </div>
@@ -149,7 +148,7 @@
 
 ## 📈 Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theayushgupta21&bg_color=0d1117&color=c084fc&line=7c3aed&point=e9d5ff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theayushgupta21&bg_color=243147&color=00ffea&line=00ff1e&point=d4ff00&area=true&hide_border=true"/>
 
 <br/>
 
