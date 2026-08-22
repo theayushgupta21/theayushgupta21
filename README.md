@@ -1,77 +1,82 @@
 <div align="center">
 
 <!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,50:DD2476,100:7C3AED&height=220&section=header&text=Ayush%20Gupta&fontSize=65&fontColor=bacc62&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A6%20Creative%20Coder%20%E2%9C%A6%20Builder&descAlignY=58&descSize=18&descColor=f6fa07"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ayush%20Gupta&fontSize=60&fontColor=E5E9F0&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Creative%20Coder%20•%20Builder&descAlignY=58&descSize=18&descColor=88C0D0"/>
 
 <br/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2500&pause=700&color=f6fa07&center=true&vCenter=true&width=850&lines=⚡+Full-Stack+MERN+Engineer;🚀+Building+Scalable+Web+Apps;📘+Java+%26+DSA+Explorer;🤖+AI+%26+Modern+Tech+Creator;🎨+Creative+Developer+%26+Photographer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=88C0D0&center=true&vCenter=true&width=850&lines=Full-Stack+MERN+Engineer;Building+Scalable+Web+Applications;Java+%26+DSA+Practitioner;AI+%26+Modern+Tech+Explorer;Creative+Developer+%26+Photographer"/>
 
-<br/><br/>
+<br/>
 
 <!-- Profile Stats -->
-![Profile Views](https://komarev.com/ghpvc/?username=theayushgupta21&color=a855f7&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=theayushgupta21&color=2C5364&style=for-the-badge&label=Profile+Views)
 
 </div>
 
+<br/>
+
+## 👋 About Me
+
+Full-Stack Developer with a focus on **Java** and modern **web technologies**. I enjoy solving structured problems through Data Structures & Algorithms and translating ideas into clean, scalable applications. Outside of code, I explore visual storytelling through photography.
+
+- 💻 Building real-world, production-style projects with the MERN stack
+- 📚 Strengthening core fundamentals through DSA practice in Java
+- 🎨 Practicing visual composition and storytelling through photography
+- 📸 Portfolio on Instagram: [@portraitwalagallery](https://instagram.com/portraitwalagallery)
+
+<br/>
+
+> "Code is poetry written in logic — and I'm building my own story."
+
+<br/>
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-## 💫 About Me
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/portraitwala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theayushgupta21)
+[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/portraitwalagallery)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/portraitcoder)
+[![Email](https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushgupta9510@gmail.com)
 
 </div>
 
-> 💜 *"Code is poetry written in logic — and I'm building my own story."*
+<br/>
 
-👋 Hi, I’m Ayush Gupta  
-💻 Web Developer focused on Java & Web Technologies  
-📚 Learning DSA and building real-world projects  
-🎨 Passionate about photography, creativity, and visual storytelling  
-📸 Instagram: @portraitwalagallery  
-
----
+## 📌 Featured Repositories
 
 <div align="center">
 
-## 🌐 Let's Connect
+<a href="https://github.com/theayushgupta21?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theayushgupta21&repo=your-repo-1&theme=nord&hide_border=true" height="150"/>
+</a>
+<a href="https://github.com/theayushgupta21?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theayushgupta21&repo=your-repo-2&theme=nord&hide_border=true" height="150"/>
+</a>
 
 </div>
 
-<div align="center">
+> Replace `your-repo-1` / `your-repo-2` above with your actual repository names to pin your best work here.
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/portraitwala)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/portraitwalagallery)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theayushgupta21)
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/portraitcoder)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushgupta9510@gmail.com)
-
-</div>
-
----
-
-<div align="center">
+<br/>
 
 ## 🧠 Currently Learning
 
-</div>
-
 <div align="center">
 
-![Full-Stack](https://img.shields.io/badge/Full--Stack%20Dev-Learning-7c3aed?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA%20(Java)-Practicing-7c3aed?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI%20Exploration-Active-c026d3?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Real--World%20Projects-Building-a855f7?style=for-the-badge)
+![Full-Stack](https://img.shields.io/badge/Full--Stack%20Dev-Learning-0F2027?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA%20(Java)-Practicing-203A43?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI%20Exploration-Active-2C5364?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Real--World%20Projects-Building-34667A?style=for-the-badge)
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-## 💻 Tech Stack
-
-</div>
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -89,68 +94,83 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=theayushgupta21&theme=aura&hide_border=true&include_all_commits=true" height="170" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=theayushgupta21&theme=aura&hide_border=true" height="170" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theayushgupta21&theme=aura&hide_border=true&layout=compact" height="170" />
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=theayushgupta21&theme=nord&hide_border=true&include_all_commits=true" height="170" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=theayushgupta21&theme=nord&hide_border=true" height="170" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theayushgupta21&theme=nord&hide_border=true&layout=compact" height="170" />
 
 </div>
 
----
-
-<div align="center">
+<br/>
 
 ## 🏆 Achievements & Milestones
 
-</div>
-
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=theayushgupta21&theme=radical&no-frame=true&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=theayushgupta21&theme=nord&no-frame=true&margin-w=5)
 
 </div>
 
 <br/>
 
-<div align="center">
-
-| 🚀 **Technical Wins** | 🎨 **Creative Wins** | 🌟 **Core Strengths** |
-| :--- | :--- | :--- |
-| **MERN Stack Proficiency** | **Visual Storyteller @portraitwala** | **Problem Solving (Java/DSA)** |
-| **Built 1+ Full-Stack Projects** | **500+ Professional Portraits** | **Clean & Scalable Code** |
-| **Consistent Open Source Contributor** | **Expert in Visual Composition** | **Adaptability & Fast Learning** |
-
-</div>
+<table align="center">
+<tr>
+<th align="left">🚀 Technical Wins</th>
+<th align="left">🎨 Creative Wins</th>
+<th align="left">🌟 Core Strengths</th>
+</tr>
+<tr>
+<td>MERN Stack Proficiency</td>
+<td>Visual Storyteller @portraitwala</td>
+<td>Problem Solving (Java/DSA)</td>
+</tr>
+<tr>
+<td>Built 1+ Full-Stack Projects</td>
+<td>500+ Professional Portraits</td>
+<td>Clean & Scalable Code</td>
+</tr>
+<tr>
+<td>Consistent Open Source Contributor</td>
+<td>Expert in Visual Composition</td>
+<td>Adaptability & Fast Learning</td>
+</tr>
+</table>
 
 <br/>
 
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solving_Daily-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/theayushgupta21)
-[![Projects](https://img.shields.io/badge/Projects-Building_the_Future-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/theayushgupta21?tab=repositories)
-[![Photography](https://img.shields.io/badge/Photography-Visual_Storytelling-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/portraitwalagallery)
+[![Projects](https://img.shields.io/badge/Projects-Building_the_Future-2C5364?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/theayushgupta21?tab=repositories)
+[![Photography](https://img.shields.io/badge/Photography-Visual_Storytelling-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/portraitwalagallery)
 
 </div>
 
----
+<br/>
+
+## 💬 Dev Quote
 
 <div align="center">
 
-## 📈 Contributions
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theayushgupta21&bg_color=243147&color=00ffea&line=00ff1e&point=d4ff00&area=true&hide_border=true"/>
+</div>
 
 <br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theayushgupta21&bg_color=0F2027&color=88C0D0&line=8FBCBB&point=E5E9F0&area=true&hide_border=true"/>
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theayushgupta21/theayushgupta21/output/github-snake-dark.svg">
@@ -160,11 +180,20 @@
 
 </div>
 
+<br/>
 
----
+## 🤝 Let's Collaborate
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4a1d96,100:7c3aed&height=120&section=footer&text=Keep+Building+🚀&fontSize=20&fontColor=e9d5ff"/>
+I'm open to collaborating on **full-stack web projects**, **open-source contributions**, and **creative/photography-driven builds**. Feel free to reach out via [Email](mailto:ayushgupta9510@gmail.com) or [LinkedIn](https://linkedin.com/in/theayushgupta21).
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=20&fontColor=E5E9F0"/>
 
 </div>
